@@ -4,7 +4,7 @@
 
 ### Organisatorische Rahmenbedingungen
 
-Die Abgabe erfolgt bis Montag, 23:59 Uhr. Reiche folgende Dateien ein:
+Die Abgabe erfolgt bis Sonntag, 23:59 Uhr. Reiche folgende Dateien ein:
 
 
 - `index.html` - Deine HTML-Datei
